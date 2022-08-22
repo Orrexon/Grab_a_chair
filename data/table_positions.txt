@@ -1,0 +1,14 @@
+[START]
+ID:0
+W:1
+H:1
+CHAIRS:4
+POS:9,7
+[END]
+[START]
+ID:1
+W:2
+H:1
+CHAIRS:6
+POS:9,5
+[END]
